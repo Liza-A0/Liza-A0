@@ -1,5 +1,5 @@
 
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil 💙💙
 
 Meu nome é Lizandra Andrade de Almeida
 
@@ -7,10 +7,9 @@ Meu nome é Lizandra Andrade de Almeida
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo 📭
 
 00001110556159sp@al.educacao.sp.gov.br
 
 @Liza-A0
 
-![descrição do GIF](link GIF do Tenor)
